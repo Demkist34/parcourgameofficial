@@ -1,0 +1,27 @@
+.main{
+    margin: 10px auto;
+    width: 80%;
+    background-color: rgb(124, 72, 207);
+    padding: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 200px;
+}
+h1{
+  text-align: center;
+}
+a{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color: black;
+}
