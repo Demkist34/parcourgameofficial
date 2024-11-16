@@ -1,0 +1,64 @@
+.main{
+    margin: 10px auto;
+    width: 80%;
+    background-color: rgb(93, 174, 194);
+    padding: 10px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn {
+    width: 20%;
+   
+}
+h1{
+  text-align: center;
+}
+a{
+    color:white;
+}
+h2{
+    color:white;
+}
+h3{
+    color: black;
+}
+
+.header{
+    margin: 10px auto;
+    width: 80%;
+    background-color: rgb(8, 66, 81);
+    padding: 10px;
+    h1{color: white;}
+
+}
+.opisetion{
+    
+    background-color: rgb(1, 204, 255);
+    padding: 10px;
+    h2{color: darkcyan;}
+}
+.novogo{
+   
+    background-color: rgb(59, 79, 160);
+    padding: 10px;
+    h2{color: rgb(118, 62, 20);}
+    h3{color: rgb(12, 12, 10);}
+}
+.version{
+   
+    background-color: rgb(230, 234, 3);
+    padding: 5px;
+}
+.footer{
+    background-color: rgb(2, 2, 0);
+}
+
+.z{
+display: flex;
+
+}
